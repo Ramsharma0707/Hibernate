@@ -22,9 +22,9 @@ public class TestAuction {
 		bid2.setTimeStamp("AA");
 
 		Bid bid3 = new Bid();
-		bid3.setId(3);
-		bid3.setAmount(3000);
-		bid3.setTimeStamp("AAA");
+		bid3.setId(4);
+		bid3.setAmount(4000);
+		bid3.setTimeStamp("AA");
 
 		Set bids = new HashSet();
 		
@@ -33,8 +33,8 @@ public class TestAuction {
 		bids.add(bid3);
 		
 		AuctionItem item=new AuctionItem();
-		item.setId(1);
-		item.setDescription("auction 1");
+		item.setId(2);
+		item.setDescription("auction 2");
 		item.setBids(bids);
 		
 		
