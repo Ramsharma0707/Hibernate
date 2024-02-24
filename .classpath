@@ -22,5 +22,6 @@
 	<classpathentry kind="lib" path="C:/Rays Software/Hib Jars/log4j-1.2.11.jar"/>
 	<classpathentry kind="lib" path="C:/Rays Software/Hib Jars/mchange-commons-java-0.2.3.4.jar"/>
 	<classpathentry kind="lib" path="C:/Rays Software/Hib Jars/mysql-connector-java-8.0.29 (1).jar"/>
+	<classpathentry kind="con" path="org.eclipse.ajdt.core.ASPECTJRT_CONTAINER"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
